@@ -1,1 +1,1 @@
-# goit-react-hw-03-phonebook
+An app to store phone book contacts
